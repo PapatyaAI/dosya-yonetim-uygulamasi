@@ -33,7 +33,7 @@ npm start
 5. Tarayıcınızda http://localhost:3000 adresine giderek uygulamayı görüntüleyebilirsiniz.
 
 
-##Kullanım
+## Kullanım
 Uygulamayı çalıştırdıktan sonra tarayıcınızda http://localhost:3000 adresine gidin. Karşınıza basit bir dosya yönetim arayüzü çıkacaktır.
 
 Dosya Yükleme: "Dosya Seç" butonuna tıklayarak yerel dosya sisteminden dosya seçin ve "Yükle" butonuna tıklayarak dosyayı yükleyin.
@@ -41,7 +41,7 @@ Dosya İndirme: Yüklenen dosyaların yanındaki "İndir" butonuna tıklayarak d
 Dosya Silme: Yüklenen dosyaların yanındaki "Sil" butonuna tıklayarak dosyayı silebilirsiniz.
 Dosya Yeniden Adlandırma: Yüklenen dosyaların yanındaki "Yeniden Adlandır" butonuna tıklayarak dosyanın ismini değiştirebilirsiniz.
 
-##Katkıda Bulunma
+## Katkıda Bulunma
 Katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin:
 
 Bu repository'yi fork'layın.
@@ -51,5 +51,5 @@ Branch'inizi uzak repository'e push'layın: git push origin yeni-ozellik
 Pull Request (Çekme İsteği) oluşturun.
 Değişiklikleriniz incelenecek ve projeye eklenip eklenmeyeceği hakkında geri bildirim alacaksınız.
 
-##Lisans
+## Lisans
 Bu proje, MIT Lisansı ile lisanslanmıştır.
